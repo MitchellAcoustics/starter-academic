@@ -29,7 +29,7 @@ organizations:
     url: https://www.ucl.ac.uk/bartlett/environmental-design/
 education:
   courses:
-    - course: PhD in Environmental Design (ongoing)
+    - course: PhD in Environmental Design & Engineering (ongoing)
       institution: UCL
       year: 2022
     - course: BSc. Physics & Music
