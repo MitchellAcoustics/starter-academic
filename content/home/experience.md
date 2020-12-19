@@ -50,5 +50,5 @@ experience:
         * BACE1002 Building Physics & Environment w. Dr Samuel Stamp
         * BENV0098 Urban Physics w. Dr Jon Taylor
         * BENV0032 Methods of Environmental Analysis w. Dr Nici Zimmermann (statistics tutorials)
-        * BENV0086 Build Systems Modelling w. Dr Valentina Marincioni (general Python programming support)
+        * BENV0086 Building Systems Modelling w. Dr Valentina Marincioni (general Python programming support)
 ---
