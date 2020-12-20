@@ -5,8 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include urban soundscape analysis, machine learning,
   and human perception of complex sounds.
 interests:
-  - Soundscape
-  - MachineLearning
+  - Urban Soundscape
+  - Machine Learning
+  - Environmental Acoustics
+  - Musical Acoustics
 social:
   - icon: envelope
     icon_pack: fas
