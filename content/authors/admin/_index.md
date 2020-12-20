@@ -1,7 +1,7 @@
 ---
 title: Andrew Mitchell
 role: Soundscape Researcher
-avatar_filename: andrew-venice-photo.jpg
+avatar_filename: media/andrew-venice-photo.jpg
 bio: My research interests include urban soundscape analysis, machine learning,
   and human perception of complex sounds.
 interests:
