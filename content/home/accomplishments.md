@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Grants & Awards'
+title: 'Grants and Awards'
 subtitle:
 
 # Date format
@@ -23,31 +23,36 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: "2021-09-01"
+- certificate_url: ""
+  date_end: "2021-09-01"
   date_start: "2021-01-01"
   description: "A 9 month placement within the UK's prestigious national institute for data science. During this period I will focus on developing a Bayesian hierarchical approach to modelling urban soundscape perception."
-  organization: "The Alan Turing Institute"
+  organization: The Alan Turing Institute
   organization_url: https://www.turing.ac.uk/
-  title: "Turing Enrichment/Engagement Scheme"
+  title: Turing Enrichment/Engagement Scheme
   url: https://www.turing.ac.uk/work-turing/studentships/enrichment
-- date_end: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2020-06-10"
-  description: "Contributing author on successful grant application for £50,480 to purchase professional-level equipment for remote acoustic and environmental monitors."
-  organization: "UKRI Research England"
+  description: Contributing author on successful grant application for £50,480 to purchase professional-level equipment for remote acoustic and environmental monitors.
+  organization: UKRI Research England
   organization_url: https://re.ukri.org/funding/our-funds-overview/capital-funding/
-  title: "Research Capital Investment Fund (RCIF)"
-- date_end: "2019-12-15"
+  title: Research Capital Investment Fund (RCIF)
+  url: ""
+- certificate_url: ""
+  date_end: "2019-12-15"
   date_start: ""
   description: "Awarded by the Noise interest group for *Making cities smarter with new soundscape indices* presented at the 178th Meeting of the Acoustical Society of America in San Diego, CA"
-  organization: "Acoustical Society of America"
+  organization: Acoustical Society of America
   organization_url: https://acousticalsociety.org/
   title: Best Paper Award
   url: https://asastudents.org/27201-2/
-- date_end: "2021-09-15"
+- certificate_url: ""
+  date_end: "2021-09-15"
   date_start: "2018-09-15"
   description: "ERC Advanced Grant no. 740696: Soundscape Indices - SSID"
-  organization: "European Research Council (ERC)"
+  organization: European Research Council (ERC)
   organization_url: https://erc.europa.eu/
-  title: "PhD Studentship"
+  title: PhD Studentship
   url: https://cordis.europa.eu/project/id/740696
 ---
