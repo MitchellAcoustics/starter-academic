@@ -25,19 +25,17 @@ date_format: Jan 2006
 item:
 - date_end: "2021-09-01"
   date_start: "2021-01-01"
-  description: "2|- A 9 month placement within the UK's prestigious national institute for data science. During this period I will focus on developing a Bayesian hierarchical approach to modelling urban soundscape perception."
+  description: "A 9 month placement within the UK's prestigious national institute for data science. During this period I will focus on developing a Bayesian hierarchical approach to modelling urban soundscape perception."
   organization: Alan Turing Institute
   organization_url: https://www.turing.ac.uk/work-turing/studentships/enrichment
   title: Turing Enrichment / Engagement Scheme
   url: https://www.turing.ac.uk/work-turing/studentships/enrichment
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- date_end: ""
+  date_start: "2020-06-10"
+  description: "I was a contributing author on a successful grant application for £50,480 to purchase professional-level equipment for remote acoustic and environmental monitors."
+  organization: UKRI Research England
+  organization_url: https://re.ukri.org/funding/our-funds-overview/capital-funding/
+  title: Research Capital Investment Fund (RCIF)
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
