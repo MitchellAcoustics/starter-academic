@@ -36,12 +36,11 @@ item:
   organization: UKRI Research England
   organization_url: https://re.ukri.org/funding/our-funds-overview/capital-funding/
   title: Research Capital Investment Fund (RCIF)
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- date_end: ""
+  date_start: "2019-12-15"
+  description: "Awarded by the Noise interest group for *Making cities smarter with new soundscape indices* presented at the 178th Meeting of the Acoustical Society of America in San Diego, CA."
+  organization: Acoustical Society of America
+  organization_url: https://acousticalsociety.org/
+  title: 'Best Paper Award'
+  url: https://asastudents.org/27201-2/
 ---
