@@ -27,6 +27,8 @@ lastmod: 2020-12-20T23:42:35Z
 featured: true
 draft: false
 
+url_pdf: https://www.mdpi.com/2076-3417/10/7/2397/pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
