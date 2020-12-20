@@ -39,7 +39,7 @@ education:
       year: 2015
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 Andrew Mitchell is a doctoral researcher in urban soundscapes at University College London (UCL). His research interests include soundscape analysis, machine learning, and human perception of complex sounds. Prior to entering research, Andrew worked as an acoustics consultant in the US and UK and he continues to freelance as an acoustics and soundscape consultant.
 
