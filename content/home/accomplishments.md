@@ -43,4 +43,11 @@ item:
   organization_url: https://acousticalsociety.org/
   title: 'Best Paper Award'
   url: https://asastudents.org/27201-2/
+- date_end: "2021-09-15"
+  date_start: "2018-09-15"
+  description: "Fully funded 3-year PhD as part of the ERC Advanced Grant no. 740696: Soundscape Indices - SSID"
+  organization: European Research Council
+  organization_url: https://erc.europa.eu/
+  title: PhD Studentship
+  url: https://cordis.europa.eu/project/id/740696
 ---
