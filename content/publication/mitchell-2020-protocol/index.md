@@ -6,7 +6,7 @@ title: 'The Soundscape Indices (SSID) Protocol: A Method for Urban Soundscape Su
 subtitle: ''
 summary: ''
 authors:
-- Andrew Mitchell
+- admin
 - Tin Oberman
 - Francesco Aletta
 - Mercede Erfanian
