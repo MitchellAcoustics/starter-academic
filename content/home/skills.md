@@ -16,18 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 90%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 50%
-  icon: r-project
-  icon_pack: fab
-  name: R
+<div id='buzzsprout-small-player-1438372'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1438372.js?container_id=buzzsprout-small-player-1438372&player=small'></script>
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
