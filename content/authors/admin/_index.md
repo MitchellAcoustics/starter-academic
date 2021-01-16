@@ -46,3 +46,6 @@ Andrew Mitchell is a doctoral researcher in urban soundscapes at University Coll
 Andrew is also the host of [*The Rest is Just Noise*](https://www.justnoisepod.com), a monthly podcast exploring the relationship between sound and our cities. Each episode, Andrew and his co-hosts and colleagues Dr Francesco Aletta and Dr Tin Oberman speak with researchers and experts from a wide range of backgrounds about their work in urban sounds and sound perception. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<div id="buzzsprout-player-7142005"></div>
+<script src="https://www.buzzsprout.com/1438372/7142005-ep-1-the-birds-with-dr-ellie-ratcliffe.js?container_id=buzzsprout-player-7142005&player=small" type="text/javascript" charset="utf-8"></script>
