@@ -36,7 +36,7 @@ experience:
         * Conduct soundscape recordings (comprising spatial audio, 360 degree video, sound level meter measurements, and in-depth questionnaires) at 40+ locations around the UK, US and Europe
         * Develope the database and data structure for the storage and publication of a large-scale soundscape recording database.
         
-  - title: Post-graduate Teaching Assistant
+  - title: Senior Post-graduate Teaching Assistant
     company: University College London (UCL)
     company_url: ''
     location: London, UK
