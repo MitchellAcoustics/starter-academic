@@ -8,6 +8,8 @@ authors:
 tags:
   - upgrade
   - thesis
+categories:
+  - ThesisUpdates
 image:
   filename: blm-london1.jpg
   focal_point: Smart
