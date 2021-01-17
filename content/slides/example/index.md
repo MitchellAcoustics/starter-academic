@@ -1,5 +1,6 @@
 ---
 title: Slides
+marp: true
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
