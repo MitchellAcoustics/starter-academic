@@ -22,7 +22,7 @@ all_day: true
 links:
   - url: https://www.youtube.com/watch?v=ZX3nnnMdOaE
     name: Watch the talk
-    icon_pack: far
+    icon_pack: fab
     icon: youtube
 event: Acoustics 2020 Conference
 event_url: https://www.ioa.org.uk/civicrm/event/info%3Fid%3D503%26reset%3D1
