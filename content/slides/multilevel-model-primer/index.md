@@ -25,14 +25,9 @@ Andrew Mitchell
 
 ## What is a multi-level model?
 
-{{% fragment %}}
-- Also known as hierarchical, linear mixed effects regression (LMER), or linear mixed models (LMM) 
-{{% /fragment %}}
-{{% fragment %}}
-- Useful for clustered data, repeated measures data, longitudinal data
-{{% /fragment %}}
-{{% fragment }}
-- Examples:
+{{% fragment %}}- Also known as hierarchical, linear mixed effects regression (LMER), or linear mixed models (LMM){{% /fragment %}}
+{{% fragment %}} - Useful for clustered data, repeated measures data, longitudinal data {{% /fragment %}}
+{{% fragment }} - Examples:
   - voting data by states
   - animal weight over time
   - radon intrusion into homes sorted into counties and states
