@@ -10,7 +10,7 @@ authors:
   - admin
 tags:
   - soundscape
-external_link: https://www.ucl.ac.uk/bartlett/environmental-design/research-projects/2020/nov/soundscape-indices-ssid
+external_link: ""
 image:
   filename: ""
   focal_point: Smart
