@@ -20,7 +20,7 @@ abstract: The field of soundscape studies considers sound environments as
   scales and between-sound-event time scales. An ordinal logistic regression
   model is developed which predicts the perceptual attributes of urban
   soundscapes based on the spectral slopes of the acoustic time series.
-location: San Diego, CA
+location: Acoustical Society of America, San Diego
 date: 2019-12-02T01:58:51.036Z
 date_end: 2019-12-06T00:00:00.000Z
 all_day: true
@@ -31,6 +31,11 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - soundscape
+  - conferences
+categories:
+  - Psychoacoustics
 projects:
   - ssid
 image:
