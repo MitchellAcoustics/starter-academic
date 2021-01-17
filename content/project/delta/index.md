@@ -10,13 +10,13 @@ summary: Funded by a UCL Health of the Public small grant, the DeLTA project
   Engineering, lead by Dr. Francesco Aletta, and the Department of Statistical
   Science, lead by Dr. Jinghao Xue.
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 tags: []
 categories:
   - SmartCities
-external_link: " "
+external_link: ""
 image:
   filename: featured.png
   focal_point: Smart
