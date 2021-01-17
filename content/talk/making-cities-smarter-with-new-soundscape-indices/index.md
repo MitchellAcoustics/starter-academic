@@ -21,7 +21,7 @@ abstract: The core objectives of smart city design are to increase quality of
   psychophysiological underpinnings of soundscape experience. It is expected
   that SSID will provide a vital tool in guiding the implementation of the
   technological infrastructure of smart cities.
-location: Acoustics Society of America, San Diego, CA
+location: Acoustics Society of America, San Diego
 date: 2019-12-02T13:22:47.729Z
 date_end: 2019-12-06T00:00:00.000Z
 all_day: true
