@@ -21,4 +21,8 @@ On a side note, because this year is wild, I received the email letting me know 
 
 It also means I had to finally settle on a decent thesis title, I landed on **Machine Learning and Regression Modelling of Dynamic Urban Soundscapes: A multilevel approach**.
 
-Andrew Mitchell PhD Upgrade Report, Institute for Environmental Design & Engineering, UCL
+<!--StartFragment-->
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/AMitchell Upgrade Report_final.pdf" "newtab" >}}Upgrade Report{{< /staticref >}}.
+
+<!--EndFragment-->
