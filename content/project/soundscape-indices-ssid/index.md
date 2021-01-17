@@ -10,7 +10,11 @@ authors:
   - admin
 tags:
   - soundscape
-external_link: ""
+external_link: 
+  - icon: external-link-alt
+    icon_pack: fas
+    name: SSID at UCL
+    url: https://www.ucl.ac.uk/bartlett/environmental-design/research-projects/2020/nov/soundscape-indices-ssid
 image:
   filename: ""
   focal_point: Smart
