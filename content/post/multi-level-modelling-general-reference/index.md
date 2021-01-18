@@ -1,8 +1,6 @@
 ---
-title: Multi-level Modelling General Reference
-subtitle: ""
+title: Multi Level Modelling General Reference
 date: 2021-01-18T19:33:31.805Z
-summary: ""
 draft: false
 featured: false
 authors:
@@ -11,9 +9,9 @@ tags:
   - MultiLevelModelling
   - MachineLearning
 categories:
-  - Multilevel
-
+  - MachineLearning
 ---
+
 ## Go to Joel First
 
 [Joel Eduardo Martinez has compiled a fantastic list](https://joelemartinez.com/2015/07/14/mixed-effect-models/) of resources for mixed effects modelling. This is the first stop for a library of information on the topic, but I'd like to compile my own set and add to what he has already done. I'll also be adding any talks or tutorials I write on the topic
