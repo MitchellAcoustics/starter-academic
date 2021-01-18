@@ -1,5 +1,7 @@
 ---
 title: Multi Level Modelling General Reference
+summary: "Here I'll compile a list of the best resources I find on conducting
+  various types of multilevel modelling."
 date: 2021-01-18T19:33:31.805Z
 draft: false
 featured: false
@@ -25,3 +27,5 @@ categories:
 ## Multilevel Correlation
 
 * [Multilevel Bayesian Correlation](https://brendanhasz.github.io/2018/06/27/bayesian-correlations.html) by Brendan Hasz
+
+
