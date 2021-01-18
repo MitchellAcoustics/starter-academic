@@ -8,11 +8,13 @@ featured: false
 authors:
   - admin
 tags:
-  - MultiLevelModelling
-  - MachineLearning
+  - Multi Level Modelling
+  - Machine Learning
 categories:
-  - MachineLearning
+  - Machine Learning
 ---
+
+Here I'll compile a list of the best resources I find on conducting various types of multilevel modelling.
 
 ## Go to Joel First
 
@@ -24,7 +26,7 @@ categories:
 
 ## Topics
 
-## Multilevel Correlation
+### Multilevel Correlation
 
 * [Multilevel Bayesian Correlation](https://brendanhasz.github.io/2018/06/27/bayesian-correlations.html) by Brendan Hasz
 
