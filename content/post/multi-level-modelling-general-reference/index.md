@@ -9,8 +9,8 @@ featured: false
 authors:
   - admin
 tags:
-  - multilevel
-  - MachineLearning
+  - Multi Level Modelling
+  - Machine Learning
 categories:
   - Multilevel
 image:
@@ -18,16 +18,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-\# Go to Joel First!
+# Go to Joel First!
 
 [Joel Eduardo Martinez has compiled a fantastic list](https://joelemartinez.com/2015/07/14/mixed-effect-models/) of resources for mixed effects modelling. This is the first stop for a library of information on the topic, but I'd like to compile my own set and add to what he has already done. I'll also be adding any talks or tutorials I write on the topic
 
-\# Books
+# Books
 
-\* Gelman, A., & Hill, J. (2007). [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://www.abebooks.co.uk/servlet/BookSearchPL?an=Gelman&kn=Multilevel%2C+hierarchical&pn=Cambridge&tn=Data+Analysis+Using+Regression+and+Multilevel&xpod=on). Cambridge University Press.
+* Gelman, A., & Hill, J. (2007). [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://www.abebooks.co.uk/servlet/BookSearchPL?an=Gelman&kn=Multilevel%2C+hierarchical&pn=Cambridge&tn=Data+Analysis+Using+Regression+and+Multilevel&xpod=on). Cambridge University Press.
 
-\# Topics
+# Topics
 
-\## Multilevel Correlation
+## Multilevel Correlation
 
-\* [Multilevel Bayesian Correlation](https://brendanhasz.github.io/2018/06/27/bayesian-correlations.html) by Brendan Hasz
+* [Multilevel Bayesian Correlation](https://brendanhasz.github.io/2018/06/27/bayesian-correlations.html) by Brendan Hasz
