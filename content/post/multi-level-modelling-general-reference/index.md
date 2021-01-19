@@ -29,5 +29,3 @@ Here I'll compile a list of the best resources I find on conducting various type
 ### Multilevel Correlation
 
 * [Multilevel Bayesian Correlation](https://brendanhasz.github.io/2018/06/27/bayesian-correlations.html) by Brendan Hasz
-
-
