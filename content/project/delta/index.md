@@ -13,9 +13,10 @@ draft: false
 featured: true
 authors:
   - admin
-tags: []
+tags: 
+  - Deep Learning
 categories:
-  - SmartCities
+  - Smart Cities
 external_link: ""
 image:
   filename: featured.png
