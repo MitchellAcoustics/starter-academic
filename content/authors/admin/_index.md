@@ -47,5 +47,4 @@ Andrew is also the host of *[The Rest is Just Noise](https://www.justnoisepod.co
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/2020-10-22_AMitchell-CV-no-ref.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<div id="buzzsprout-player-7142005"></div>
-<script src="https://www.buzzsprout.com/1438372/7142005-ep-1-the-birds-with-dr-ellie-ratcliffe.js?container_id=buzzsprout-player-7142005&player=small" type="text/javascript" charset="utf-8"></script>
+<iframe src="https://embed.podcasts.apple.com/us/podcast/the-rest-is-just-noise/id1547078918?itsct=podcast_box&amp;itscg=30200&amp;theme=light" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
