@@ -47,4 +47,4 @@ Andrew is also the host of *[The Rest is Just Noise](https://www.justnoisepod.co
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/2020-10-22_AMitchell-CV-no-ref.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<iframe src="https://embed.podcasts.apple.com/us/podcast/the-rest-is-just-noise/id1547078918?itsct=podcast_box&amp;itscg=30200&amp;theme=light" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
+<div id='buzzsprout-small-player-1438372'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1438372.js?container_id=buzzsprout-small-player-1438372&player=small'></script>
