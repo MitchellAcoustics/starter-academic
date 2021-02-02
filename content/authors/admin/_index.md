@@ -47,4 +47,4 @@ Andrew is also the host of *[The Rest is Just Noise](https://www.justnoisepod.co
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/2020-10-22_AMitchell-CV-no-ref.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<div id='buzzsprout-small-player-1438372'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1438372.js?container_id=buzzsprout-small-player-1438372&player=small'></script>
+<div id='buzzsprout-small-player-1438372-artist-Sarah-20Payne'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1438372.js?player=small&artist=Sarah%20Payne&container_id=buzzsprout-small-player-1438372-artist-Sarah-20Payne'></script>
