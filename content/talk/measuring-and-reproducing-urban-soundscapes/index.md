@@ -26,8 +26,8 @@ featured: true
 authors:
   - admin
 
-links:
-  url_pdf: media/2021-Chicago-AES-Soundscapes.pdf
+# links:
+#   url_pdf: media/2021-Chicago-AES-Soundscapes.pdf
 tags:
   - soundscape
 image:
