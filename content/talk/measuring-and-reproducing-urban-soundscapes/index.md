@@ -25,7 +25,9 @@ draft: false
 featured: true
 authors:
   - admin
-url_pdf: "2021-Chicago-AES-Soundcapes.pdf"
+projects:
+  - ssid
+url_pdf: "pdf/2021-Chicago-AES-Soundcapes.pdf"
 # links:
 #   url_pdf: media/2021-Chicago-AES-Soundscapes.pdf
 tags:
