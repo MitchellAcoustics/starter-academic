@@ -51,4 +51,26 @@ experience:
         * BENV0098 Urban Physics w. Dr Jon Taylor
         * BENV0032 Methods of Environmental Analysis w. Dr Nici Zimmermann (statistics tutorials)
         * BENV0086 Building Systems Modelling w. Dr Valentina Marincioni (general Python programming support)
+  - title: Soundscape Consultant / Acoustics Engineer
+    company: Hoare Lea
+    company_url: https://hoarelea.com/
+    location: London, UK
+    date_start: '2019-07-01'
+    date_end: '2020-04-01'
+    description: |2-
+        As part of an extensive industry collaboration, my role was to provide leading edge insights from modern research on soundscapes and sound perception to better inform the design of the built environment. I also lead the development of a unique and innovative method for assessing the sound experience of building occupants and worked toward designing a comprehensive soundscape rating metric. This project required:
+        * Management of a suite of environmental quality meters
+        * Development of a bespoke occupant survey app
+        * Development of custom acoustic analysis tools and software
+        * Independent project management and technical service package development
+  - title: Acoustical Consultant
+    company: Newson Brown Acoustics
+    company_url: http://newsonacoustics.com/info
+    location: Santa Monica, CA
+    date_start: '2016-06-01'
+    date_end: '2018-09-01'
+    description: |2-
+        * Provided comprehensive technical reports on over 50 projects to architects, engineers, and contractors detailing acoustical recommendations throughout the process of building design
+        * Conducted extensive environmental noise surveys and performed detailed building envelope noise intrusion calculations
+        * Reviewed architectural, mechanical, electrical, and plumbing drawings to identify and address potential noise issues
 ---
