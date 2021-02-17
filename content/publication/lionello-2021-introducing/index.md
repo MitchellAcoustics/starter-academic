@@ -44,7 +44,7 @@ abstract: 'Likert scales are useful for collecting data on attitudes and percept
   allowing mathematical operations to be viable when applied to the data.'
 featured: true
 publication: '*Frontiers in Psychology*'
-url_pdf: https://www.frontiersin.org/article/10.3389/fpsyg.2020.602831
+url_pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.602831/pdf
 doi: 10.3389/fpsyg.2020.602831
 image:
   caption: ''
