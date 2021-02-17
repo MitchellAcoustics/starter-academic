@@ -15,8 +15,8 @@ abstract: Given the multi-sensory nature of urban soundscapes, researchers who
   we can reproduce and analyse the primary aspects of the soundscapes within a
   lab setting.
 location: Chicago Audio Engineering Society
-date: 2021-02-16T19:30:25.294Z
-date_end: 2021-02-16T21:00:56.829Z
+date: 2021-02-16T18:00:25.294Z
+date_end: 2021-02-16T19:00:56.829Z
 all_day: false
 event: AES Chapter meeting
 event_url: https://aesshow.com/
@@ -27,7 +27,7 @@ authors:
   - admin
 projects:
   - ssid
-url_pdf: "pdf/2021-Chicago-AES-Soundcapes.pdf"
+url_pdf: "pdf/2021_Chicago_AES_Soundcapes.pdf"
 # links:
 #   url_pdf: media/2021-Chicago-AES-Soundscapes.pdf
 tags:

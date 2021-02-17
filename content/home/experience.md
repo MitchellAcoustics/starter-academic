@@ -28,7 +28,7 @@ experience:
     location: London, UK
     date_start: '2018-09-15'
     date_end: ''
-    description: |1-
+    description: |2-
         Primary research responsibility is to investigate machine learning and regression modelling of soundscapes based on acoustical and non-acoustical factors. As a team member on the SSID project group, practical responsibilities include:
         
         * Coordinate collaboration with industrial and research partners to promote the implementation of Soundscape in practice
