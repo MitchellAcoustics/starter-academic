@@ -1,6 +1,6 @@
 ---
 title: DeLTA
-subtitle: DEep Learning Techniques for noise Annoyance detection
+subtitle: Deep Learning Techniques for noise Annoyance detection
 date: 2021-01-17T13:45:04.509Z
 summary: Funded by a UCL Health of the Public small grant, the DeLTA project
   aims to develop deep learning methods for predicting annoyance perception of

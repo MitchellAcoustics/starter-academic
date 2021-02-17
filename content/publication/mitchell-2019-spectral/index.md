@@ -6,7 +6,7 @@ title: The spectral structure of acoustic time series can predict the perceptual
 subtitle: ''
 summary: ''
 authors:
-- Andrew Mitchell
+- admin
 - Jian Kang
 tags:
 - '"SSID"'

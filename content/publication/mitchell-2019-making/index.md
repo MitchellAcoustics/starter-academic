@@ -5,7 +5,7 @@ title: Making cities smarter with new soundscape indices
 subtitle: ''
 summary: ''
 authors:
-- Andrew Mitchell
+- admin
 - Francesco Aletta
 - Tin Oberman
 - Mercede Erfanian
