@@ -27,7 +27,7 @@ authors:
   - admin
 projects:
   - ssid
-url_pdf: "static/pdf/2021_Chicago_AES_Soundcapes.pdf"
+url_pdf: "pdf/2021_Chicago_AES_Soundcapes.pdf"
 # links:
 #   url_pdf: media/2021-Chicago-AES-Soundscapes.pdf
 tags:
