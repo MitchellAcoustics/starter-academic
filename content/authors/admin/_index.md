@@ -47,4 +47,5 @@ Andrew is also the host of *[The Rest is Just Noise](https://www.justnoisepod.co
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/2020-10-22_AMitchell-CV-no-ref.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<div id='buzzsprout-small-player-1438372-artist-Sarah-20Payne'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1438372.js?player=small&artist=Sarah%20Payne&container_id=buzzsprout-small-player-1438372-artist-Sarah-20Payne'></script>
+<div id="buzzsprout-player-9152918"></div>
+<script src="https://www.buzzsprout.com/1438372/9152918-lockdown-soundscapes-the-stockholm-syndrome-with-romain-rumpler.js?container_id=buzzsprout-player-9152918&player=small" type="text/javascript" charset="utf-8"></script>
