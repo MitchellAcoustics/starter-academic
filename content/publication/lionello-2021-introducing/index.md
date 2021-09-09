@@ -42,7 +42,7 @@ abstract: 'Likert scales are useful for collecting data on attitudes and percept
   improvement when applied to the corrected data. The results suggest that the corrected
   values account for the non-equidistant interpretation of the Likert metrics, thereby
   allowing mathematical operations to be viable when applied to the data.'
-featured: true
+featured: false
 publication: '*Frontiers in Psychology*'
 url_pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.602831/pdf
 doi: 10.3389/fpsyg.2020.602831
