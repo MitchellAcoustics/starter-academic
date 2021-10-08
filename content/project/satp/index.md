@@ -15,7 +15,7 @@ external_link: ""
 
 links:
  - icon: youtube
-   icon_pack: fas
+   icon_pack: fab
    name: SATP Intro video
    url: https://www.youtube.com/watch?v=vYZzujag9lM
 image:
