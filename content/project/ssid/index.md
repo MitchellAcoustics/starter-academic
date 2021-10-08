@@ -9,7 +9,7 @@ featured: false
 authors:
   - admin
 tags:
-  - soundscape
+  - Soundscape
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
