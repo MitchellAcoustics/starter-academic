@@ -4,14 +4,20 @@ subtitle: Soundscape Attributes Translation Project
 date: 2021-10-08T13:45:04.509Z
 summary: The long-term objective of the Soundscape Attributes Translation Project (SATP) is to generate validated translations of soundscape attributes using standardized listening experiments in different languages and geographical regions as a way to promote a widespread use of the soundscape attributes, both in academia and practice, across locations, populations and languages.
 draft: false
-featured: true
+featured: false
 authors:
   - admin
 tags: 
   - Soundscape
   - Translation
 categories:
-external_link: https://www.researchgate.net/project/Soundscape-Attributes-Translation-Project-SATP
+external_link: ""
+
+links:
+ - icon: youtube
+   icon_pack: fas
+   name: SATP Intro video
+   url: https://www.youtube.com/watch?v=vYZzujag9lM
 image:
   filename: featured.png
   focal_point: Smart
