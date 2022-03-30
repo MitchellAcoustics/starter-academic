@@ -31,11 +31,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['ssid']
+projects: ["ssid"]
 publishDate: '2022-03-30T13:38:32.503242Z'
 publication_types:
 - '2'
-abstract: This study first examines the methods presented in ISO 12913 for analysing and representing soundscape data by applying them to a large existing database of soundscape assessments. The key issue identified is the inability of the standard methods to summarise the soundscape of locations and groups. The presented solution inherently considers the variety of responses within a group and provides an open-source visualisation tool to facilitate a nuanced approach to soundscape assessment and design. Several demonstrations of the soundscape distribution of urban spaces are presented, along with pro- posals for how this approach can be used and developed. 
+abstract: 'This study first examines the methods presented in ISO 12913 for analysing and representing soundscape data by applying them to a large existing database of soundscape assessments. The key issue identified is the inability of the standard methods to summarise the soundscape of locations and groups. The presented solution inherently considers the variety of responses within a group and provides an open-source visualisation tool to facilitate a nuanced approach to soundscape assessment and design. Several demonstrations of the soundscape distribution of urban spaces are presented, along with pro- posals for how this approach can be used and developed.'
 publication: '*JASA Express Letters*'
 url_pdf: https://asa.scitation.org/doi/10.1121/10.0009794
 doi: 10.1121/10.0009794
