@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: How to analyse and represent quantitative soundscape data
+title: 'How to analyse and represent quantitative soundscape data'
 subtitle: ''
 summary: ''
 authors:

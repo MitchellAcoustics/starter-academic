@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Investigating urban soundscapes of the COVID-19 lockdown -- A predictive 
-  soundscape modelling approach
+title: 'Investigating urban soundscapes of the COVID-19 lockdown -- A predictive 
+  soundscape modelling approach'
 subtitle: ''
 summary: ''
 authors:
