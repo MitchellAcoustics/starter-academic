@@ -10,24 +10,19 @@ abstract: >
   powerful and examples of how we make use of it in our work at UCL and the
   Turing Institute.
 
-
-  Automated and repeatable data processing – replacing SPSS with R and Python
-
-  Sharing data and code – how does this work in practice and how do we make it as accessible as possible?
-
-  Future proof, collaborative, and free
+   * Automated and repeatable data processing – replacing SPSS with R and Python
+   * Sharing data and code – how does this work in practice and how do we make it as accessible as possible?
+   * Future proof, collaborative, and free
 
   Tools and resources:
-
-  Guide to Reproducible Data Science: The Turing Way
-
-  Creating my own open source soundscape analysis package: Soundscapy
-
-  Easily sharing code and notebooks: Jupyter and Binder
+   * Guide to Reproducible Data Science: The Turing Way
+   * Creating my own open source soundscape analysis package: Soundscapy
+   * Easily sharing code and notebooks: Jupyter and Binder
 location: Department of Psychology, Stockholm University
 date: 2022-03-24T14:00:36.430Z
 date_end: 2022-03-24T16:00:00.000Z
 all_day: false
+links: []
 event: "Programming languages like Python and R are powerful tools for data
   analysis, but how can they help enable more open science? In this brief intro,
   I’ll walk through some basics for using Python to expand your data analysis,
