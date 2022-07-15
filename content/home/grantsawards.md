@@ -23,12 +23,26 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_end: "2022-07-01"
+  date_start: "2023-01-01"
+  description: "The PDEA programme offers small awards to facilitate postdoctoral activity throughout the UK with the aim of building the foundations for an engaged postdoctoral community working on topics related to data science and AI. The Turing’s PDEA scheme is designed to provide development opportunities in three key areas: learning new skills, collaboration, and developing research independence."
+  organization: Alan Turing Institute
+  organization_url: https://www.turing.ac.uk/work-turing/alan-turing-institute-post-doctoral-enrichment-awards-2022
+  title: Turing Post-Doctoral Enrichment Award
+  url: https://www.turing.ac.uk/work-turing/studentships/enrichment
+- date_end: "2021-06-01"
+  date_start: "2022-01-01"
+  description: "A second 6 month placement within the UK's prestigious national institute for data science."
+  organization: Alan Turing Institute
+  organization_url: https://www.turing.ac.uk/work-turing/studentships/enrichment
+  title: Turing PhD Enrichment Scheme
+  url: https://www.turing.ac.uk/work-turing/studentships/enrichment
 - date_end: "2021-09-01"
-  date_start: "2021-01-01"
+  date_start: "2022-06-01"
   description: "A 9 month placement within the UK's prestigious national institute for data science. During this period I will focus on developing a Bayesian hierarchical approach to modelling urban soundscape perception."
   organization: Alan Turing Institute
   organization_url: https://www.turing.ac.uk/work-turing/studentships/enrichment
-  title: Turing Enrichment / Engagement Scheme
+  title: Turing PhD Enrichment / Engagement Scheme
   url: https://www.turing.ac.uk/work-turing/studentships/enrichment
 - date_end: ""
   date_start: "2020-06-10"

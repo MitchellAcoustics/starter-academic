@@ -22,20 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Doctoral Researcher (PhD student)
+  - title: Research Fell
     company: Institute for Environmental Design & Engineering (UCL)
     company_url: 'https://www.ucl.ac.uk/bartlett/environmental-design/'
     location: London, UK
-    date_start: '2018-09-15'
+    date_start: '2022-07-01'
     date_end: ''
     description: |2-
-        Primary research responsibility is to investigate machine learning and regression modelling of soundscapes based on acoustical and non-acoustical factors. As a team member on the SSID project group, practical responsibilities include:
-        
-        * Coordinate collaboration with industrial and research partners to promote the implementation of Soundscape in practice
-        * Design and implement a methodology framework for conducting soundscape assessments for use in research across the world
-        * Conduct soundscape recordings (comprising spatial audio, 360 degree video, sound level meter measurements, and in-depth questionnaires) at 40+ locations around the UK, US and Europe
-        * Develope the database and data structure for the storage and publication of a large-scale soundscape recording database.
-        
+        As part of the Soundscape Indices (SSID) research team, I am primarily responsible for the development of machine learning models, data management and publication, and industry collaborations. My projects and appointments include:
+         * A generalisable prediction model for urban soundscape perception
+         * [`Soundscapy`](https://github.com/MitchellAcoustics/Soundscapy) an open-source Python package for soundscape data analysis and visualisation
+         * Collaborations with The Alan Turing Institute and industrial partners
+         * Maintain the [International Soundscape Database (ISD)](https://www.zenodo.org/record/6331810), the Soundscape Attributes Translation Database, and the DeLTA Database
+
   - title: Senior Post-graduate Teaching Assistant
     company: University College London (UCL)
     company_url: ''
@@ -51,6 +50,20 @@ experience:
         * BENV0098 Urban Physics w. Dr Jon Taylor
         * BENV0032 Methods of Environmental Analysis w. Dr Nici Zimmermann (statistics tutorials)
         * BENV0086 Building Systems Modelling w. Dr Valentina Marincioni (general Python programming support)
+  - title: Doctoral Researcher (PhD student)
+    company: Institute for Environmental Design & Engineering (UCL)
+    company_url: 'https://www.ucl.ac.uk/bartlett/environmental-design/'
+    location: London, UK
+    date_start: '2018-09-15'
+    date_end: '2022-07-01'
+    description: |2-
+        Primary research responsibility is to investigate machine learning and regression modelling of soundscapes based on acoustical and non-acoustical factors. As a team member on the SSID project group, practical responsibilities include:
+        
+        * Coordinate collaboration with industrial and research partners to promote the implementation of Soundscape in practice
+        * Design and implement a methodology framework for conducting soundscape assessments for use in research across the world
+        * Conduct soundscape recordings (comprising spatial audio, 360 degree video, sound level meter measurements, and in-depth questionnaires) at 40+ locations around the UK, US and Europe
+        * Developed the database and data structure for the storage and publication of a large-scale soundscape recording database.
+        
   - title: Soundscape Consultant / Acoustics Engineer
     company: Hoare Lea
     company_url: https://hoarelea.com/
